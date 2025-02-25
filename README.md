@@ -62,7 +62,9 @@ O **LightCaster 2D** possui uma arquitetura modular que permite futuras extensõ
 
 ## Demonstração
 
+![Demo](src/assets/presents/recording.gif)
+
 <video width="800" controls>
-  <source src="src/assets/records/recording.mp4" type="video/mp4">
+  <source src="src/assets/presents/recording.mp4" type="video/mp4">
   Seu navegador não suporta vídeos.
 </video>
