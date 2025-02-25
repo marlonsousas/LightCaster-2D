@@ -58,3 +58,8 @@ O **LightCaster 2D** possui uma arquitetura modular que permite futuras extensõ
 - **Sistema Operacional**: Windows, Linux ou macOS
 - **Compilador C++** compatível com **C++17** ou superior
 - **Biblioteca SFML 2.5+** instalada
+
+
+## Demonstração
+
+![Demo](src/assets/records/recording.gif)
